@@ -57,7 +57,7 @@ Más allá de la tecnología, soy creadora de contenido audiovisual con IA.
 |-------|--------|
 | LinkedIn | [linkedin.com/in/nadiahean](https://www.linkedin.com/in/nadiahean) |
 | GitHub | [@heanfour](https://github.com/yourusername) |
-| Email | `naddy.hean@email.com` |
+| Email | `nadia.hean@gmail.com` |
 | Website | `nadiahean` |
 
 ---
