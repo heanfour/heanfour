@@ -1,9 +1,6 @@
 # Hola, soy Nadd  👋
-
 ---
-
 ## 🧠 Sobre mí
-
 Construyo sistemas de automatización inteligente y workflows con IA para pequeñas y medianas empresas. Mi enfoque es hacer que la tecnología compleja sea accesible: conectar las herramientas correctas para resolver problemas operativos reales.
 
 Actualmente desarrollando una agencia especializada en automatización de procesos, integración de IA  marketing digital para mercados.
@@ -61,7 +58,7 @@ Más allá de la tecnología, soy creadora de contenido audiovisual con IA.
 | LinkedIn | [linkedin.com/in/nadiahean](https://www.linkedin.com/in/nadiahean) |
 | GitHub | [@heanfour](https://github.com/yourusername) |
 | Email | `naddy.hean@email.com` *(opcional — usa uno profesional dedicado)* |
-| Website | `www.nadiahean.` *(opcional — usa uno profesional dedicado)* |
+| Website | `nadiahean` *(opcional — usa uno profesional dedicado)* |
 
 ---
 
